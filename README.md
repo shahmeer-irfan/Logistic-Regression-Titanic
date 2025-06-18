@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Titanic ML Project</title>
-</head>
+
 <body>
 
 <h1>🚢 Titanic - Machine Learning from Disaster</h1>
